@@ -1,7 +1,7 @@
-Recipedia
+# Recipedia
 
-Group Members:
-# Sirena Salas
-# Brandon Ruiz
-# Lisa Hong
-# Tasnima Chowdhury
+# Group Members:
+ Sirena Salas
+ Brandon Ruiz
+ Lisa Hong
+ Tasnima Chowdhury
